@@ -15,8 +15,17 @@ To use the LangChain Q&A System, follow the steps below:
 ```
 cd langchain-gpt
 ```
+3. Create your python environment
+   ```
+   python -m venv [name of env]
+   ```
+4. Activate your environment
+ ```
+source [name of env]/bin/activate
+```
+_(Different for windows)_
 
-3. Install the required dependencies by running the following command:
+5. Install the required dependencies by running the following command:
 ```
     pip install -r requirements.txt
 ```
